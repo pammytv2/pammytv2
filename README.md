@@ -4,7 +4,7 @@
 ## My name is Natchaphon  
 🌍 I'm based in Chiang Mai  
 ✉️ You can contact me at [Natchaphon11th@gmail.com](mailto:Natchaphon11th@gmail.com)  
-🧠 I'm learning at RMUTL  
+🧠 computer engineering RMUTL ⚙️⚙️
 
 ---
 
