@@ -184,7 +184,7 @@ const natchaphon = {
 ---
 
 <div align="center">
-![Profile Views](https://komarev.com/ghpvc/?username=pammytv2&color=blueviolet&style=for-the-badge)
+  <img src="https://pammytv2.github.io/Profile_dev" alt="Profile Views" />
 </div>
 
 ---
