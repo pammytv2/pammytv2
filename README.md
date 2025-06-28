@@ -42,12 +42,11 @@ const natchaphon = {
 - 🌱 Exploring cloud technologies & DevOps
 - 🎮 Developing games with Unity
 - 👯 Open to collaboration opportunities
-- 💬 Always happy to discuss tech!
+
 
 📍 **Based in:** Chiang Mai, Thailand  
 🎓 **Studying:** Computer Engineering @ RMUTL  
 💻 **Tech Stack:** Python • JavaScript • C++ • Flutter  
-☕ **Powered by:** Coffee and curiosity
 
 </td>
 </tr>
