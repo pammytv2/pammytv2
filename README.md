@@ -184,50 +184,6 @@ const natchaphon = {
 
 ---
 
-## 🎯 Current Goals
-
-<table>
-<tr>
-<td>
-
-### 🔭 Working On
-- Improving backend development skills
-- Building scalable applications
-- Learning cloud technologies
-
-</td>
-<td>
-
-### 🌱 Learning
-- Microservices architecture
-- Container orchestration
-- Advanced Python frameworks
-
-</td>
-</tr>
-<tr>
-<td>
-
-### 👯 Collaboration
-- Open source projects
-- Backend development
-- Mobile app development
-
-</td>
-<td>
-
-### 💬 Ask Me About
-- **Full-Stack** development
-- **Python** & **JavaScript** frameworks
-- **Flutter** mobile apps
-- **Unity** game development
-
-</td>
-</tr>
-</table>
-
----
-
 <div align="center">
 ![Profile Views](https://komarev.com/ghpvc/?username=pammytv2&color=blueviolet&style=for-the-badge)
 </div>
