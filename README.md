@@ -184,13 +184,6 @@ const natchaphon = {
 
 ---
 
-## 💡 Random Dev Quote
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</div>
-
----
-
 ## 🎯 Current Goals
 
 <table>
@@ -233,15 +226,13 @@ const natchaphon = {
 </tr>
 </table>
 
-**⚡ Fun fact:** I debug with `console.log()` and I'm proud of it! 😄
-
 ---
 
 <div align="center">
   
 ### 🎨 "Code is like humor. When you have to explain it, it's bad." – Cory House
 
-![Profile Views](https://komarev.com/ghpvc/?username=pammytv2&color=blueviolet&style=for-the-badge)
+![Profile Views](https://pammytv2.github.io/Profile_dev/)
 
 **⭐ Star some repositories if you found them interesting!**
 
