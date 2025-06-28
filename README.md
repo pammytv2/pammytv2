@@ -20,11 +20,15 @@ const natchaphon = {
     location: "🌍 Chiang Mai, Thailand",
     education: "🧠 Computer Engineering @ RMUTL", 
     email: "✉️ Natchaphon11th@gmail.com",
+    languages: [
+        "Python", "JavaScript", "C++", 
+        "Dart", "C#", "PHP"
+    ],
     interests: [
-        "Backend Development",
+        "Full-Stack Development",
         "Mobile Apps", 
-        "DevOps",
-        "Learning New Tech"
+        "Game Development",
+        "DevOps & Cloud"
     ],
     funFact: "⚙️ I love turning coffee into code! ☕→💻"
 };
@@ -34,13 +38,15 @@ const natchaphon = {
 <td>
 
 🎯 **Current Focus:**
-- 🔭 Building robust backend systems
-- 🌱 Exploring microservices architecture  
+- 🔭 Building full-stack applications
+- 🌱 Exploring cloud technologies & DevOps
+- 🎮 Developing games with Unity
 - 👯 Open to collaboration opportunities
 - 💬 Always happy to discuss tech!
 
 📍 **Based in:** Chiang Mai, Thailand  
 🎓 **Studying:** Computer Engineering @ RMUTL  
+💻 **Tech Stack:** Python • JavaScript • C++ • Flutter  
 ☕ **Powered by:** Coffee and curiosity
 
 </td>
@@ -53,25 +59,32 @@ const natchaphon = {
 
 <div align="center">
 
+### 💻 Programming Languages
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+</p>
+
+### 🌐 Frontend Development
+
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+</p>
+
 ### ⚙️ Backend Development
 
 <p>
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
 <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+<img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt="ASP.NET"/>
 <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
-</p>
-
-### 🗄️ Databases
-
-<p>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-<img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" alt="Firebase"/>
 </p>
 
 ### 📱 Mobile Development
@@ -80,11 +93,29 @@ const natchaphon = {
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
 </p>
 
+### 🗄️ Databases
+
+<p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" alt="Firebase"/>
+</p>
+
 ### 🛠️ DevOps & Tools
 
 <p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+</p>
+
+### 🖥️ Operating Systems
+
+<p>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
 </p>
 
 </div>
@@ -193,9 +224,10 @@ const natchaphon = {
 <td>
 
 ### 💬 Ask Me About
-- **Node.js** development
-- **Python** frameworks
+- **Full-Stack** development
+- **Python** & **JavaScript** frameworks
 - **Flutter** mobile apps
+- **Unity** game development
 
 </td>
 </tr>
