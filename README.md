@@ -232,7 +232,7 @@ const natchaphon = {
   
 ### 🎨 "Code is like humor. When you have to explain it, it's bad." – Cory House
 
-![Profile Views](https://pammytv2.github.io/Profile_dev/)
+![Profile Views](https://komarev.com/ghpvc/?username=pammytv2&color=blueviolet&style=for-the-badge)
 
 **⭐ Star some repositories if you found them interesting!**
 
