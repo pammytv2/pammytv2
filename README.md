@@ -1,45 +1,82 @@
-# 👋 Hi!  
-![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+👋 Hi there! I'm Natchaphon
+Show Image
+<div align="center">
+Show Image
+</div>
 
-## My name is Natchaphon  
-🌍 I'm based in Chiang Mai  
-✉️ You can contact me at [Natchaphon11th@gmail.com](mailto:Natchaphon11th@gmail.com)  
-🧠 computer engineering RMUTL ⚙️⚙️
+🧑‍💻 About Me
+typescriptconst natchaphon = {
+    location: "🌍 Chiang Mai, Thailand",
+    education: "🧠 Computer Engineering @ RMUTL",
+    email: "✉️ Natchaphon11th@gmail.com",
+    interests: ["Backend Development", "Mobile Apps", "DevOps", "Learning New Tech"],
+    funFact: "⚙️ I love turning coffee into code! ☕→💻"
+};
 
----
+🚀 Tech Stack & Skills
+<div align="center">
+⚙️ Backend Development
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+🗄️ Databases
+Show Image
+Show Image
+📱 Mobile Development
+Show Image
+🛠️ DevOps & Tools
+Show Image
+Show Image
+</div>
 
-## 🚀 Skills  
+📊 GitHub Analytics
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pammytv2&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pammytv2&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pammytv2&theme=tokyonight" alt="GitHub Streak"/>
+</div>
 
-⚙️ Backend
-<p align="left"> <a href="https://nodejs.org/en/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a> <a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a> <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="FastAPI" /></a> <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a> <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a> <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a> </p>
+🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pammytv2&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1"/>
+</div>
 
-🗄️ Database
-<p align="left"> <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a> <a href="https://firebase.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a> </p>
+📈 Contribution Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pammytv2&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
+</div>
 
-📱 Mobile
-<p align="left"> <a href="https://flutter.dev/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a> </p>
+🌐 Connect With Me
+<div align="center">
+Show Image
+Show Image
+</div>
 
-## 🛠 DevOps & Tools  
-<p align="left">
-<a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
-<a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
+💡 Random Dev Quote
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</div>
 
-</p>
+🎯 Current Goals
 
-## 📱 Socials  
+🔭 Working on improving my backend development skills
+🌱 Learning more about microservices architecture
+👯 Looking to collaborate on open source projects
+💬 Ask me about Node.js, Python, or Flutter
+⚡ Fun fact: I debug with console.log() and I'm proud of it! 😄
 
-<p align="left"> 
-<a href="https://github.com/pammytv2" target="_blank"> 
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" /> 
 
-  
-</a> 
-</p>
+<div align="center">
+🎨 "Code is like humor. When you have to explain it, it's bad." – Cory House
+Show Image
+⭐ Star some repositories if you found them interesting!
+</div>
 
----
-
-## 🏆 Badges  
-
-<a href="https://github.com/pammytv2">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pammytv2&langs_count=10&title_color=ffffff&text_color=14b8a6&icon_color=0f172a&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
-</a>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
