@@ -1,4 +1,5 @@
 # 👋 Hi there! I'm Natchaphon
+
 ![Waving Hand](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 <div align="center">
@@ -17,20 +18,17 @@
 
 ```typescript
 const natchaphon = {
-    location: "🌍 Chiang Mai, Thailand",
-    education: "🧠 Computer Engineering @ RMUTL", 
-    email: "✉️ Natchaphon11th@gmail.com",
-    languages: [
-        "Python", "JavaScript", "C++", 
-        "Dart", "C#", "PHP"
-    ],
-    interests: [
-        "Full-Stack Development",
-        "Mobile Apps", 
-        "Game Development",
-        "DevOps & Cloud"
-    ],
-    funFact: "⚙️ I love turning coffee into code! ☕→💻"
+  location: "🌍 Chiang Mai, Thailand",
+  education: "🧠 Computer Engineering @ RMUTL",
+  email: "✉️ Natchaphon11th@gmail.com",
+  languages: ["Python", "JavaScript", "C++", "Dart", "C#", "PHP"],
+  interests: [
+    "Full-Stack Development",
+    "Mobile Apps",
+    "Game Development",
+    "DevOps & Cloud",
+  ],
+  funFact: "⚙️ I love turning coffee into code! ☕→💻",
 };
 ```
 
@@ -38,15 +36,15 @@ const natchaphon = {
 <td>
 
 🎯 **Current Focus:**
+
 - 🔭 Building full-stack applications
 - 🌱 Exploring cloud technologies & DevOps
 - 🎮 Developing games with Unity
 - 👯 Open to collaboration opportunities
 
-
 📍 **Based in:** Chiang Mai, Thailand  
 🎓 **Studying:** Computer Engineering @ RMUTL  
-💻 **Tech Stack:** Python • JavaScript • C++ • Flutter  
+💻 **Tech Stack:** Python • JavaScript • C++ • Flutter
 
 </td>
 </tr>
@@ -136,11 +134,14 @@ const natchaphon = {
 </tr>
 </table>
 
+<img width="100%" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGt3dzdubXc2cGVvdGRneW95dWoyaHV4dTIxOWc1dXJ2czRzb2hmeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5SKwQMGTR1umLrKC7N/giphy.gif"/>
+
 </div>
 
 ---
 
 ## 🏆 GitHub Trophies
+
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=pammytv2&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1"/>
 </div>
@@ -148,6 +149,7 @@ const natchaphon = {
 ---
 
 ## 📈 Contribution Graph
+
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pammytv2&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
 </div>
@@ -184,8 +186,6 @@ const natchaphon = {
 <div align="center">
   
 ![Profile Views](https://komarev.com/ghpvc/?username=pammytv2&color=blueviolet&style=for-the-badge)
-
-
 
 </div>
 
