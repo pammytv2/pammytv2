@@ -128,7 +128,7 @@ const natchaphon = {
 <table>
 <tr>
 <td>
-<img height="200" src="[https://github-readme-stats.vercel.app/api?username=pammytv2&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dHhjcG96NG02dWFqb2tzazNxeXhnaG54OXN4MTVwM294M3F0a2VwcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/m0MfjLtKOgTPG/giphy.gif)"/>
+<img height="200" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dHhjcG96NG02dWFqb2tzazNxeXhnaG54OXN4MTVwM294M3F0a2VwcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/m0MfjLtKOgTPG/giphy.gif"/>
 </td>
 <td>
 <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pammytv2&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
