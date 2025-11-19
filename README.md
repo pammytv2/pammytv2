@@ -136,7 +136,7 @@ const natchaphon = {
 </tr>
 </table>
 
-<img width="100%" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGt3dzdubXc2cGVvdGRneW95dWoyaHV4dTIxOWc1dXJ2czRzb2hmeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5SKwQMGTR1umLrKC7N/giphy.gif"/>
+<img width="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGt3dzdubXc2cGVvdGRneW95dWoyaHV4dTIxOWc1dXJ2czRzb2hmeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5SKwQMGTR1umLrKC7N/giphy.gif"/>
 
 </div>
 
