@@ -1,101 +1,80 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 460" font-family="'Press Start 2P','Courier New',Consolas,monospace">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 340">
   <defs>
-    <linearGradient id="gold" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#fde68a"/>
-      <stop offset="45%" stop-color="#fbbf24"/>
-      <stop offset="100%" stop-color="#b45309"/>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#12002b"/>
+      <stop offset="60%" stop-color="#3b0f5e"/>
+      <stop offset="100%" stop-color="#8e2de2"/>
     </linearGradient>
-    <linearGradient id="hp" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#4ade80"/>
-      <stop offset="100%" stop-color="#16a34a"/>
+    <linearGradient id="sun" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffd94d"/>
+      <stop offset="55%" stop-color="#ff6ec7"/>
+      <stop offset="100%" stop-color="#ff2ea6"/>
     </linearGradient>
-    <linearGradient id="mp" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#93c5fd"/>
-      <stop offset="100%" stop-color="#2563eb"/>
+    <linearGradient id="chrome" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#e0f7ff"/>
+      <stop offset="48%" stop-color="#7dd3fc"/>
+      <stop offset="52%" stop-color="#ff6ec7"/>
+      <stop offset="100%" stop-color="#ff2ea6"/>
     </linearGradient>
-    <linearGradient id="xp" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#e9d5ff"/>
-      <stop offset="100%" stop-color="#9333ea"/>
-    </linearGradient>
-    <filter id="glow2" x="-40%" y="-40%" width="180%" height="180%">
-      <feGaussianBlur stdDeviation="6" result="b"/>
+    <clipPath id="sunclip"><circle cx="430" cy="140" r="85"/></clipPath>
+    <filter id="pglow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="4" result="b"/>
       <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
   </defs>
-
   <style>
-    .title  { fill: url(#gold); font-weight: bold; letter-spacing: 4px; }
-    .label  { fill: #fbbf24; font-size: 13px; font-weight: bold; letter-spacing: 2px; }
-    .value  { fill: #e6edf3; font-size: 13px; font-weight: bold; }
-    .dim2   { fill: #8b949e; font-size: 12px; letter-spacing: 1px; }
-    .barnum { fill: #e6edf3; font-size: 11px; font-weight: bold; }
-    .hpbar  { animation: fillhp 1.6s ease-out .6s forwards; }
-    .mpbar  { animation: fillmp 1.6s ease-out 1.0s forwards; }
-    .xpbar  { animation: fillxp 3.2s ease-in-out 1.4s infinite; }
-    .start  { animation: blink2 1.2s steps(2,start) infinite; }
-    .spark  { animation: tw 2.2s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
-    .s2 { animation-delay: .7s; }
-    .s3 { animation-delay: 1.3s; }
-    .s4 { animation-delay: 1.9s; }
-    .heart3 { animation: blink2 2.4s steps(2,start) infinite; }
-    @keyframes fillhp { from { width: 0; } to { width: 262px; } }
-    @keyframes fillmp { from { width: 0; } to { width: 248px; } }
-    @keyframes fillxp { 0% { width: 0; } 70% { width: 285px; } 100% { width: 285px; } }
-    @keyframes blink2 { 50% { opacity: 0; } }
-    @keyframes tw { 0%,100% { opacity: .15; transform: scale(.6); } 50% { opacity: 1; transform: scale(1.1); } }
+    .grid { stroke: #ff2ea6; stroke-width: 1.2; opacity: .7; }
+    .star { animation: tw2 2.4s ease-in-out infinite; }
+    .t2 { animation-delay: .8s; } .t3 { animation-delay: 1.6s; } .t4 { animation-delay: 1.2s; }
+    @keyframes tw2 { 0%,100% { opacity: .2; } 50% { opacity: 1; } }
+    .sunmove { animation: rise 6s ease-in-out infinite alternate; }
+    @keyframes rise { from { transform: translateY(0); } to { transform: translateY(-7px); } }
+    .neonline { animation: pulse 2.6s ease-in-out infinite; }
+    @keyframes pulse { 0%,100% { opacity: .9; } 50% { opacity: .45; } }
+    .tagline { animation: tw2 3s ease-in-out infinite; }
   </style>
 
-  <!-- outer pixel frame -->
-  <rect x="14" y="14" width="832" height="432" rx="4" fill="#0d1117" stroke="#fbbf24" stroke-width="3"/>
-  <rect x="24" y="24" width="812" height="412" rx="2" fill="none" stroke="#7c5804" stroke-width="1.5"/>
-  <!-- pixel corners -->
-  <rect x="6" y="6" width="18" height="18" fill="#fbbf24"/>
-  <rect x="836" y="6" width="18" height="18" fill="#fbbf24"/>
-  <rect x="6" y="436" width="18" height="18" fill="#fbbf24"/>
-  <rect x="836" y="436" width="18" height="18" fill="#fbbf24"/>
+  <rect width="860" height="340" fill="url(#sky)"/>
 
-  <!-- sparkles -->
-  <path class="spark"    d="M120 90 l6 14 14 6 -14 6 -6 14 -6 -14 -14 -6 14 -6 z" fill="#fde68a"/>
-  <path class="spark s2" d="M745 70 l5 12 12 5 -12 5 -5 12 -5 -12 -12 -5 12 -5 z" fill="#fde68a"/>
-  <path class="spark s3" d="M780 330 l4 10 10 4 -10 4 -4 10 -4 -10 -10 -4 10 -4 z" fill="#c084fc"/>
-  <path class="spark s4" d="M150 408 l4 10 10 4 -10 4 -4 10 -4 -10 -10 -4 10 -4 z" fill="#93c5fd"/>
+  <!-- stars -->
+  <circle cx="120" cy="55" r="2" fill="#fff" class="star"/>
+  <circle cx="240" cy="90" r="1.5" fill="#fff" class="star t2"/>
+  <circle cx="700" cy="50" r="2" fill="#fff" class="star t3"/>
+  <circle cx="780" cy="110" r="1.5" fill="#fff" class="star t4"/>
+  <circle cx="90" cy="140" r="1.5" fill="#fff" class="star t3"/>
+  <circle cx="640" cy="120" r="1.5" fill="#fff" class="star"/>
+  <circle cx="180" cy="170" r="1.5" fill="#fff" class="star t4"/>
 
-  <!-- header row -->
-  <text x="430" y="66" text-anchor="middle" class="dim2" letter-spacing="6">&#9733; CHARACTER SELECT &#9733;</text>
+  <!-- sun with stripes -->
+  <g class="sunmove">
+    <circle cx="430" cy="140" r="85" fill="url(#sun)" filter="url(#pglow)"/>
+    <g clip-path="url(#sunclip)">
+      <rect x="330" y="150" width="200" height="7" fill="#12002b"/>
+      <rect x="330" y="170" width="200" height="9" fill="#12002b"/>
+      <rect x="330" y="193" width="200" height="11" fill="#12002b"/>
+    </g>
+  </g>
 
-  <!-- name -->
-  <text x="430" y="126" text-anchor="middle" class="title" font-size="44" filter="url(#glow2)">NATCHAPHON</text>
-  <text x="430" y="158" text-anchor="middle" class="value" letter-spacing="3">CLASS: BACKEND &#183; MOBILE &#183; GAME DEV</text>
+  <!-- horizon grid -->
+  <g class="grid">
+    <line x1="0" y1="245" x2="860" y2="245"/>
+    <line x1="0" y1="260" x2="860" y2="260"/>
+    <line x1="0" y1="282" x2="860" y2="282"/>
+    <line x1="0" y1="312" x2="860" y2="312"/>
+    <line x1="430" y1="245" x2="430" y2="340"/>
+    <line x1="430" y1="245" x2="260" y2="340"/>
+    <line x1="430" y1="245" x2="600" y2="340"/>
+    <line x1="430" y1="245" x2="90" y2="340"/>
+    <line x1="430" y1="245" x2="770" y2="340"/>
+    <line x1="430" y1="245" x2="0" y2="300"/>
+    <line x1="430" y1="245" x2="860" y2="300"/>
+  </g>
+  <rect y="243" width="860" height="4" fill="#ff6ec7" class="neonline"/>
 
-  <!-- info row -->
-  <text x="430" y="192" text-anchor="middle" class="dim2">GUILD: RMUTL &#160;&#9670;&#160; MAP: CHIANG MAI, THAILAND &#160;&#9670;&#160; LV. 22</text>
+  <!-- chrome name -->
+  <text x="430" y="162" text-anchor="middle" fill="url(#chrome)" stroke="#12002b" stroke-width="1.5" font-size="64" font-weight="900" font-family="Arial Black,Arial,sans-serif" letter-spacing="4" filter="url(#pglow)">NATCHAPHON</text>
+  <text x="430" y="196" text-anchor="middle" fill="#ffd94d" font-size="16" font-family="'Courier New',monospace" font-weight="bold" letter-spacing="6">BACKEND &#183; MOBILE &#183; GAME DEV</text>
+  <text x="430" y="222" text-anchor="middle" fill="#e0f7ff" font-size="12" font-family="'Courier New',monospace" letter-spacing="3" opacity=".85">RMUTL &#9670; CHIANG MAI, THAILAND</text>
 
-  <!-- lives -->
-  <text x="88" y="238" class="label">LIVES</text>
-  <text x="175" y="241" font-size="18" fill="#f87171">&#9829; &#9829;</text>
-  <text x="228" y="241" font-size="18" fill="#f87171" class="heart3">&#9829;</text>
-
-  <!-- HP bar (coffee) -->
-  <text x="88" y="278" class="label">HP</text>
-  <rect x="175" y="264" width="290" height="18" rx="3" fill="#21262d" stroke="#30363d"/>
-  <rect x="177" y="266" height="14" rx="2" fill="url(#hp)" width="0" class="hpbar"/>
-  <text x="475" y="278" class="barnum">92/100</text>
-  <text x="545" y="278" class="dim2">&#9749; coffee-powered</text>
-
-  <!-- MP bar (creativity) -->
-  <text x="88" y="318" class="label">MP</text>
-  <rect x="175" y="304" width="290" height="18" rx="3" fill="#21262d" stroke="#30363d"/>
-  <rect x="177" y="306" height="14" rx="2" fill="url(#mp)" width="0" class="mpbar"/>
-  <text x="475" y="318" class="barnum">87/100</text>
-  <text x="545" y="318" class="dim2">&#128161; creativity</text>
-
-  <!-- XP bar (always learning, loops forever) -->
-  <text x="88" y="358" class="label">XP</text>
-  <rect x="175" y="344" width="290" height="18" rx="3" fill="#21262d" stroke="#30363d"/>
-  <rect x="177" y="346" height="14" rx="2" fill="url(#xp)" width="0" class="xpbar"/>
-  <text x="475" y="358" class="barnum">&#8734;</text>
-  <text x="545" y="358" class="dim2">&#127760; learning cloud &amp; devops</text>
-
-  <!-- press start -->
-  <text x="430" y="416" text-anchor="middle" class="label start" font-size="16" letter-spacing="4">&#9654; PRESS START TO COLLABORATE &#9664;</text>
+  <text x="430" y="330" text-anchor="middle" fill="#ff9de2" font-size="12" font-family="'Courier New',monospace" letter-spacing="4" class="tagline">&#9654; RIDING THE GRID SINCE 2004 &#9664;</text>
 </svg>
