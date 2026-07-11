@@ -56,8 +56,8 @@ tech-stack
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=pammytv2&show_icons=true&hide_border=true&bg_color=0d1117&title_color=14b8a6&text_color=8b949e&icon_color=f0abfc&ring_color=14b8a6" alt="GitHub Stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pammytv2&layout=compact&hide_border=true&bg_color=0d1117&title_color=14b8a6&text_color=8b949e&langs_count=6" alt="Top Languages"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=pammytv2&show_icons=true&hide_border=true&bg_color=0d1117&title_color=14b8a6&text_color=8b949e&icon_color=f0abfc&ring_color=14b8a6" alt="GitHub Stats"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pammytv2&layout=compact&hide_border=true&bg_color=0d1117&title_color=14b8a6&text_color=8b949e&langs_count=6" alt="Top Languages"/>
 
 <br><br>
 
