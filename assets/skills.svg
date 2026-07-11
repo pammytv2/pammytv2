@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 340" font-family="'Courier New',Consolas,monospace">
+  <defs>
+    <linearGradient id="sb" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#fde68a"/>
+      <stop offset="100%" stop-color="#f59e0b"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .sk   { fill: #e6edf3; font-size: 15px; font-weight: bold; letter-spacing: 1px; }
+    .lv   { fill: #fbbf24; font-size: 13px; font-weight: bold; }
+    .cat  { fill: #8b949e; font-size: 12px; }
+    .bar  { animation: f 1.4s ease-out forwards; }
+    .b1 { animation-delay: .2s; } .b2 { animation-delay: .4s; }
+    .b3 { animation-delay: .6s; } .b4 { animation-delay: .8s; }
+    .b5 { animation-delay: 1.0s; } .b6 { animation-delay: 1.2s; }
+    @keyframes f { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+    .bar { transform-origin: 230px 0; transform: scaleX(0); }
+  </style>
+
+  <rect x="6" y="6" width="848" height="328" rx="4" fill="#0d1117" stroke="#fbbf24" stroke-width="2"/>
+  <rect x="14" y="14" width="832" height="312" rx="2" fill="none" stroke="#7c5804" stroke-width="1"/>
+
+  <text x="430" y="48" text-anchor="middle" fill="#fbbf24" font-size="16" font-weight="bold" letter-spacing="5">&#9876; SKILL TREE &#9876;</text>
+
+  <text x="50" y="92" class="sk">PYTHON</text><text x="640" y="92" class="cat">backend &#183; scripting</text>
+  <rect x="230" y="78" width="380" height="16" rx="3" fill="#21262d" stroke="#30363d"/>
+  <rect x="232" y="80" width="336" height="12" rx="2" fill="url(#sb)" class="bar b1"/>
+
+  <text x="50" y="132" class="sk">JAVASCRIPT</text><text x="640" y="132" class="cat">node &#183; express &#183; vue</text>
+  <rect x="230" y="118" width="380" height="16" rx="3" fill="#21262d" stroke="#30363d"/>
+  <rect x="232" y="120" width="320" height="12" rx="2" fill="url(#sb)" class="bar b2"/>
+
+  <text x="50" y="172" class="sk">C# / UNITY</text><text x="640" y="172" class="cat">game dev &#183; asp.net</text>
+  <rect x="230" y="158" width="380" height="16" rx="3" fill="#21262d" stroke="#30363d"/>
+  <rect x="232" y="160" width="300" height="12" rx="2" fill="url(#sb)" class="bar b3"/>
+
+  <text x="50" y="212" class="sk">DART / FLUTTER</text><text x="640" y="212" class="cat">mobile apps</text>
+  <rect x="230" y="198" width="380" height="16" rx="3" fill="#21262d" stroke="#30363d"/>
+  <rect x="232" y="200" width="290" height="12" rx="2" fill="url(#sb)" class="bar b4"/>
+
+  <text x="50" y="252" class="sk">PHP / LARAVEL</text><text x="640" y="252" class="cat">web backend</text>
+  <rect x="230" y="238" width="380" height="16" rx="3" fill="#21262d" stroke="#30363d"/>
+  <rect x="232" y="240" width="280" height="12" rx="2" fill="url(#sb)" class="bar b5"/>
+
+  <text x="50" y="292" class="sk">DEVOPS / CLOUD</text><text x="640" y="292" class="cat">docker &#183; git &#183; linux</text>
+  <rect x="230" y="278" width="380" height="16" rx="3" fill="#21262d" stroke="#30363d"/>
+  <rect x="232" y="280" width="240" height="12" rx="2" fill="url(#sb)" class="bar b6"/>
+</svg>
