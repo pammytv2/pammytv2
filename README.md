@@ -1,70 +1,70 @@
 <div align="center">
 
-<!-- 🎮 hand-crafted animated RPG character-select banner (assets/header.svg) -->
-<img src="assets/header.svg" width="100%" alt="NATCHAPHON — character select"/>
+<!-- 🌴 hand-crafted animated synthwave banner (assets/header.svg) -->
+<img src="assets/header.svg" width="100%" alt="NATCHAPHON — synthwave"/>
 
 <br><br>
 
-<a href="https://github.com/pammytv2"><img src="https://img.shields.io/badge/⚔️_NEW_GAME-github-fbbf24?style=for-the-badge&labelColor=0d1117"/></a>
-<a href="mailto:Natchaphon11th@gmail.com"><img src="https://img.shields.io/badge/💌_SEND_RAVEN-mail-c084fc?style=for-the-badge&labelColor=0d1117"/></a>
-<img src="https://img.shields.io/badge/🗺️_WORLD_MAP-chiang_mai,_th-93c5fd?style=for-the-badge&labelColor=0d1117"/>
+<a href="https://github.com/pammytv2"><img src="https://img.shields.io/badge/📼_GITHUB-pammytv2-ff2ea6?style=for-the-badge&labelColor=12002b"/></a>
+<a href="mailto:Natchaphon11th@gmail.com"><img src="https://img.shields.io/badge/💌_MAIL-say_hello-7dd3fc?style=for-the-badge&labelColor=12002b"/></a>
+<img src="https://img.shields.io/badge/🌴_BASE-chiang_mai,_th-ffd94d?style=for-the-badge&labelColor=12002b"/>
 
 </div>
 
 <br>
 
-## 🗡️ SKILL TREE
+## ⚡ POWER LEVELS
 
 <div align="center">
 
 <!-- animated skill bars (assets/skills.svg) -->
-<img src="assets/skills.svg" width="100%" alt="skill tree"/>
+<img src="assets/skills.svg" width="100%" alt="power levels"/>
 
 </div>
 
-### 🎒 INVENTORY
+### 🎛️ THE RIG
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,cpp,dart,cs,php,nodejs,express,dotnet,laravel,vue,flutter&theme=dark" alt="inventory row 1"/>
+<img src="https://skillicons.dev/icons?i=python,js,cpp,dart,cs,php,nodejs,express,dotnet,laravel,vue,flutter&theme=dark" alt="rig row 1"/>
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,git,docker,postman,unity,linux&theme=dark" alt="inventory row 2"/>
-
-</div>
-
-<br>
-
-## 📜 QUEST LOG
-
-<div align="center">
-
-| | QUEST | OBJECTIVE | CLASS | STATUS |
-|:---:|:---|:---|:---:|:---:|
-| 🏎️ | **[Game_driving_simulator](https://github.com/pammytv2/Game_driving_smiulator)** | Build a 3D car driving simulator | `C#` `Unity` | ✅ CLEARED |
-| 🔐 | **[RoleBasedProductAPI](https://github.com/pammytv2/RoleBasedProductAPI)** | Forge an API with role-based access | `Backend` | ✅ CLEARED |
-| 🛍️ | **[Review_Shop](https://github.com/pammytv2/Review_Shop)** | Craft a shop review web app | `Laravel` | ✅ CLEARED |
-| ✅ | **[ToDo_List](https://github.com/pammytv2/ToDo_List)** | Tame the chaos of daily tasks | `Laravel` | ✅ CLEARED |
-| 🌡️ | **[ESP8266_IoT_Monitor](https://github.com/pammytv2/temperature-and-humidity-as-well-ESP8266)** | Sense the realm's temp & humidity | `Vue` `IoT` | ✅ CLEARED |
-| ☁️ | **Cloud & DevOps Mastery** | Unlock the cloud arts | `DevOps` | 🔄 IN PROGRESS |
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,git,docker,postman,unity,linux&theme=dark" alt="rig row 2"/>
 
 </div>
 
 <br>
 
-## 🏆 ACHIEVEMENTS
+## 📼 TRACKLIST
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=pammytv2&show_icons=true&hide_border=true&bg_color=0d1117&title_color=fbbf24&text_color=8b949e&icon_color=c084fc&ring_color=fbbf24" alt="GitHub Stats"/>
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pammytv2&layout=compact&hide_border=true&bg_color=0d1117&title_color=fbbf24&text_color=8b949e&langs_count=6" alt="Top Languages"/>
+| # | TRACK | VIBE | GENRE |
+|:---:|:---|:---|:---:|
+| A1 | **[Game_driving_simulator](https://github.com/pammytv2/Game_driving_smiulator)** | 3D car driving simulator game | `C#` `Unity` |
+| A2 | **[RoleBasedProductAPI](https://github.com/pammytv2/RoleBasedProductAPI)** | Product API with role-based access control | `Backend` |
+| A3 | **[Review_Shop](https://github.com/pammytv2/Review_Shop)** | Shop review web application | `Laravel` |
+| B1 | **[ToDo_List](https://github.com/pammytv2/ToDo_List)** | Task management web app | `Laravel` |
+| B2 | **[ESP8266_IoT_Monitor](https://github.com/pammytv2/temperature-and-humidity-as-well-ESP8266)** | Realtime temp & humidity dashboard | `Vue` `IoT` |
+| B3 | **Cloud & DevOps** *(recording…)* | Learning the cloud arts | `DevOps` |
+
+</div>
+
+<br>
+
+## 🏆 HIGH SCORES
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=pammytv2&show_icons=true&hide_border=true&bg_color=12002b&title_color=ff6ec7&text_color=b8a8d8&icon_color=7dd3fc&ring_color=ff2ea6" alt="GitHub Stats"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pammytv2&layout=compact&hide_border=true&bg_color=12002b&title_color=ff6ec7&text_color=b8a8d8&langs_count=6" alt="Top Languages"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=pammytv2&hide_border=true&background=0d1117&ring=fbbf24&fire=f87171&currStreakLabel=fbbf24&currStreakNum=e6edf3&sideNums=e6edf3&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=pammytv2&hide_border=true&background=12002b&ring=ff2ea6&fire=ffd94d&currStreakLabel=ff6ec7&currStreakNum=e0f7ff&sideNums=e0f7ff&sideLabels=b8a8d8&dates=b8a8d8" alt="GitHub Streak"/>
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pammytv2&hide_border=true&bg_color=0d1117&color=8b949e&line=fbbf24&point=c084fc&area=true&area_color=fbbf24" width="95%" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pammytv2&hide_border=true&bg_color=12002b&color=b8a8d8&line=ff2ea6&point=7dd3fc&area=true&area_color=ff2ea6" width="95%" alt="Contribution Graph"/>
 
 </div>
 
@@ -72,10 +72,10 @@
 
 <div align="center">
 
-`💀 GAME OVER?` — `INSERT ☕ TO CONTINUE`
+`🌴 STAY RAD — SEE YOU ON THE GRID 🌴`
 
 <br><br>
 
-![Coins Collected](https://komarev.com/ghpvc/?username=pammytv2&color=fbbf24&style=flat-square&label=🪙+coins+collected)
+![Tapes Sold](https://komarev.com/ghpvc/?username=pammytv2&color=ff2ea6&style=flat-square&label=📼+tapes+sold)
 
 </div>
