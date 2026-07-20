@@ -43,8 +43,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=pammytv2&show_icons=true&hide_border=true&theme=default&hide_title=true" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pammytv2&layout=compact&hide_border=true&theme=default" alt="Top languages" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=pammytv2&hide_border=true&bg_color=00000000&color=8b949e&line=58A6FF&point=ff59f8&area=true" alt="Contribution activity graph" />
 </p>
 
 <p align="center">
