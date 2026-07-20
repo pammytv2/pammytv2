@@ -49,3 +49,14 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pammytv2/pammytv2/output/github-contribution-grid-snake-dark.svg">
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/pammytv2/pammytv2/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+---
+
+<p align="center">
+  <em>Always learning. Always shipping.</em>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="footer" />
