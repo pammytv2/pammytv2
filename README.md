@@ -35,11 +35,11 @@
 
 | Project | Description | Built with |
 |---|---|---|
-| [Game_driving_simulator](https://github.com/pammytv2/Game_driving_simulator) | 3D driving simulator game | C#, Unity |
+| [Game_driving_smiulator](https://github.com/pammytv2/Game_driving_smiulator) | 3D driving simulator game | C#, Unity |
 | [RoleBasedProductAPI](https://github.com/pammytv2/RoleBasedProductAPI) | REST API with role-based access control | Backend |
 | [Review_Shop](https://github.com/pammytv2/Review_Shop) | Shop review web application | Laravel |
 | [ToDo_List](https://github.com/pammytv2/ToDo_List) | Task management web app | Laravel |
-| [ESP8266_IoT_Monitor](https://github.com/pammytv2/ESP8266_IoT_Monitor) | Real-time IoT monitoring dashboard | Vue, ESP8266 |
+| [ESP8266 IoT Monitor](https://github.com/pammytv2/temperature-and-humidity-as-well-ESP8266) | Real-time IoT monitoring dashboard | Vue, ESP8266 |
 
 ---
 
@@ -51,7 +51,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pammytv2&hide_border=true&theme=default" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=pammytv2&hide_border=true&theme=default" alt="GitHub streak" />
 </p>
 
 ---
