@@ -43,20 +43,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=pammytv2&hide_border=true&bg_color=00000000&color=8b949e&line=58A6FF&point=ff59f8&area=true" alt="Contribution activity graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=pammytv2&theme=flat&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8" alt="GitHub trophies" />
 </p>
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pammytv2/pammytv2/output/github-contribution-grid-snake-dark.svg">
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/pammytv2/pammytv2/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
-
----
-
-<p align="center">
-  <em>Always learning. Always shipping.</em>
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="footer" />
