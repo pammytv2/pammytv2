@@ -1,37 +1,34 @@
-<h1 align="center">Natchaphon</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=Natchaphon&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36" alt="header" />
 
 <p align="center">
-  Software Developer · Chiang Mai, Thailand
+  <a href="https://github.com/pammytv2">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3500&pause=800&center=true&vCenter=true&width=520&height=48&color=58A6FF&lines=Software+Developer+%C2%B7+Chiang+Mai+%F0%9F%87%B9%F0%9F%87%AD;Web+%C2%B7+Games+%C2%B7+IoT;Currently+diving+into+Cloud+%26+DevOps+%E2%98%81%EF%B8%8F" alt="typing intro" />
+  </a>
 </p>
 
 <p align="center">
-  Graduated and now working as a full-time programmer.<br>
-  I build web applications, games, and IoT projects — currently diving deeper into <strong>Cloud &amp; DevOps</strong>.
+  Graduated and now working as a full-time programmer.
 </p>
 
 <p align="center">
-  <a href="mailto:natchaphon11th@gmail.com">Email</a>
-  ·
-  <a href="https://github.com/pammytv2?tab=repositories">Repositories</a>
+  <a href="mailto:natchaphon11th@gmail.com"><img src="https://img.shields.io/badge/Email-58A6FF?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/pammytv2?tab=repositories"><img src="https://img.shields.io/badge/Repositories-181717?style=flat-square&logo=github&logoColor=white" alt="Repositories" /></a>
+  <img src="https://komarev.com/ghpvc/?username=pammytv2&style=flat-square&color=58A6FF&label=Profile+Views" alt="Profile views" />
 </p>
 
 ---
 
-### Tech Stack
+### ⚡ Tech Stack
 
-**Languages** — Python · JavaScript · C++ · C# · Dart · PHP
-
-**Backend** — Node.js · Express · .NET · Laravel
-
-**Frontend & Mobile** — Vue · Flutter
-
-**Databases** — MySQL · MongoDB · Firebase
-
-**Tools & Platforms** — Git · Docker · Postman · Unity · Linux
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,js,cpp,cs,dart,php,nodejs,express,dotnet,laravel&perline=10" alt="Languages & Backend" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=vue,flutter,mysql,mongodb,firebase,git,docker,postman,unity,linux&perline=10" alt="Frontend, Databases & Tools" />
+</p>
 
 ---
 
-### Featured Projects
+### 🚀 Featured Projects
 
 | Project | Description | Built with |
 |---|---|---|
@@ -43,7 +40,7 @@
 
 ---
 
-### GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=pammytv2&show_icons=true&hide_border=true&theme=default&hide_title=true" alt="GitHub stats" />
@@ -59,3 +56,5 @@
 <p align="center">
   <em>Always learning. Always shipping.</em>
 </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="footer" />
